@@ -1,10 +1,3 @@
-/*
- *  File Name : Traffic_Shaper.cc
- *  Created on: 8-Mar-2022
- *  Author    : Harsha & Prajaktha
- *  Project   : Computer Networks - Task 2 - Token Bucket based Traffic Shaper.
- */
-
 
 //################################################ Header Files ###########################################################//
 
